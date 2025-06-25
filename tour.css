@@ -1,0 +1,124 @@
+.bg-container
+{
+background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+height:100vh;
+background-size:cover;
+}
+.tourism-card
+{
+text-align:center;
+background-color:white;
+border-top-left-radius:25px;
+border-top-right-radius:25px;
+padding: 5px;
+}
+.button
+{
+color:white;
+background-color:#25b1cc;
+width:138px;
+height:36px;
+border-width:0px;
+border-radius:20px;
+}
+.main-heading
+{
+font-family:"Roboto";
+}
+.paragraph
+{
+font-family:"Roboto";
+}
+.fav-place-bg-container
+{
+background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+height:100vh;
+background-size:cover;
+padding:24px;
+}
+.fav-card-heading
+{
+color: white;
+font-family: "Robotto";
+font-size: 28px;
+font-weight: bold;
+                                                                                                                                                              
+}
+.fav-place-heading
+{
+color: #ofoe46;
+font-family: "Robotto";
+font-size: 23px;
+font-weight: bold;
+}
+.description
+{
+color:#6c6b70;
+font-family:"Roboto";
+font-size:13px;
+}
+.card-container
+{
+background-color: white;
+border-radius: 8px;
+padding: 16px;
+margin-bottom: 15px;
+}
+.image-taj
+{
+width: 80px;
+height: 100px;
+}
+.det-view-bg-container
+{
+background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+height:100vh;
+background-size:cover;
+}
+.view-head{
+color:white;
+font-family:"roboto";
+font-size:28px;
+font-weight:bold;
+padding:24px;
+}
+.detailed-view-container
+{
+background-color:white;
+border-bottom-right-radius:8px;
+border-bottom-left-radius:8px;
+margin:24px;
+}
+.det-view-text-container
+{
+padding:16px;
+}
+.ing
+{
+color:#ofoe46;
+font-family:"Roboto";
+font-size:23px;
+font-weight:bold;
+}
+.para
+{
+color:#6c6b70;
+font-family:"Roboto";
+font-size:13px;
+height:15vh;
+}
+.carousel-inner-img {
+    height: 50vh;
+    width: 100%;
+
+    
+}
+
+
+
+
+
+
+
+
+
